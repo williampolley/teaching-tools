@@ -1,6 +1,7 @@
 channels:
   - defaults
 dependencies:
+  - ipython
   - ipywidgets
   - matplotlib
   - scipy
