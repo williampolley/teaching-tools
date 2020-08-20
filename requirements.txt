@@ -1,5 +1,5 @@
 numpy
-matplotlib
 ipywidgets
 nbinteract
+matplotlib
 scipy
